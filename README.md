@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumyadeep 
 - 👀 I’m interested in ``AI``
 - 🌱 I’m currently learning ``Information Technology`` specalized in ``Data Science``
-- 📫 Contact me : [LinkedIn](https://www.linkedin.com/in/soumyadeep-ganguly-76652822a/) and [My Portfolio](https://soumyadeep002.github.io/PortFolio/)
+- 📫 Contact me : [LinkedIn](https://www.linkedin.com/in/soumyadeep-ganguly-76652822a/) and [My Portfolio](https://soumyportfolio-soumyadeep002.vercel.app/)
 
 <!---
 Soumyadeep002/Soumyadeep002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
