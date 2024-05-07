@@ -5,7 +5,7 @@
 
 <h3>Tools & Languages</h3>
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python">
+  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python">
 </p>
 <!---
 Soumyadeep002/Soumyadeep002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
