@@ -5,10 +5,12 @@
 
 <h3>Tools & Languages</h3>
 <div align="left">
-  <img width="40" height="40" style={margin-right: 10px;} src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python">
-  <img width="40" height="40" style={margin-right: 10px;} src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript">
+  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python">
+  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++">
+  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino">
+  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberry">
 
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css">
