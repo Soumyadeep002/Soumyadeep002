@@ -20,7 +20,7 @@
 
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow">
-  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="pytorch">
+  <img width="100" height="60" src="https://cdn.worldvectorlogo.com/logos/pytorch-2.svg" alt="pytorch">
   
 
 
