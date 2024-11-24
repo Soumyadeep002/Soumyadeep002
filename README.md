@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soumyadeep 
-- 👀 I’m interested in ``AI & IoT``
+- 👀 I’m interested in ``Web Technology`` & ``AI``
 - 🏫 I’m currently pursuing ``Masters`` in ``Data Science``
 - 📫 Contact me : [LinkedIn](https://www.linkedin.com/in/soumyadeep-ganguly-76652822a/) and [My Portfolio](https://soumyportfolio-soumyadeep002.vercel.app/)
 
