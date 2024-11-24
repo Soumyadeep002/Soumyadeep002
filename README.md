@@ -16,7 +16,6 @@
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind css">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react js">
-  <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php">
 
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel">
   <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow">
