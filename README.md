@@ -2,7 +2,7 @@
 - 👀 I’m interested in ``Web Technology`` & ``AI``
 - 🏫 I’m currently pursuing ``Masters`` in ``Data Science``
 - 📝 My Publications : [Google Scholar](https://scholar.google.com/citations?user=p6dk7jsAAAAJ&hl=en) 
-- 📫 Contact me : [LinkedIn](https://www.linkedin.com/in/soumyadeep-ganguly-76652822a/) and [My Portfolio](https://soumyportfolio-soumyadeep002.vercel.app/)
+- 📫 Contact me : [LinkedIn](https://www.linkedin.com/in/soumyadeep-ganguly-76652822a/) and [My Portfolio](https://portfolio-nu-kohl-69.vercel.app/)
 
 <h3>Tools & Languages</h3>
 <div align="left">
